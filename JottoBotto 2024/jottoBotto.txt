@@ -1,0 +1,17 @@
+# JottoBotto
+
+## Project Description
+Jotto is a word guessing game played between two players
+Rules can be found in playerPractice.py
+
+## Guess Practice Tool
+I made this program for part of my Computer Science 2 final.
+This tool allows the user to practice guessing the opponent's word by playing against a bot
+More instructions are provided in the program
+
+## Word Strength Tool
+This is a small litte project I made a couple weeks ago
+It iterates over every valid word and determines its strength with a very simple random algorithm
+Results are attatched below
+
+Here is the link to the github repo for my Cos2 final, including a description of each of my projects: https://github.com/Penguinsssssss/Cos2-Final

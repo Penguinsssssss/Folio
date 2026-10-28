@@ -1,0 +1,7 @@
+# Scoutliers
+
+## Project Description
+Scoutliers is a data analasys tool I created for my FIRST robotics team (5687, The Outliers) used to make event data more readable/user friendly
+The program takes a .xlsx with scouting data as input, and outputs a .xlsx with averaged team data, and normalized averaged team data
+
+Here is the link to the github repo for my Cos2 final (which I used this project as a part of): https://github.com/Penguinsssssss/Cos2-Final

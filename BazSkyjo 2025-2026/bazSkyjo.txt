@@ -1,0 +1,14 @@
+# BazSkyjo
+
+## Flex Friday
+Baz Skyjo is my 2025-2026 Flex Friday project at Baxter Academy.
+Every Friday, I spent the majority of the day working on this project, and presented it to the school after it's completion at the end of the year.
+
+## Project Description
+Skyjo is a strategy based card game played between two or more players.
+The goal of the game is to end the round with the a lower score than your opponent.
+My program is a dueling DQN nueral network that will play against the user.
+It uses three internal layers of 512 neurons, with a trunkated layer of 64 neurons feeding into the output.
+It has an average score of 14 in training, which is on par with human players.
+
+Here is the link to the github repo, which includes my journal: https://github.com/Penguinsssssss/BazSkyjo-0.0

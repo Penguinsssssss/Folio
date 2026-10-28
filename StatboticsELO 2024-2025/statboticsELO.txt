@@ -1,0 +1,8 @@
+# StatboticsMMR
+
+## Project Description
+StatboticsMMR is a passion project made for FIRST robotics
+The program takes a year as input, and uses Statbotics API to iterate over all games played, running an ELO function for each of the matches
+Outputs as a .xlsx
+
+Here is the link to the github repo for my Cos2 final (which I used this project as a part of): https://github.com/Penguinsssssss/Cos2-Final

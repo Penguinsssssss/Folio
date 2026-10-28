@@ -1,0 +1,15 @@
+# Todd Quoridor
+
+## Flex Friday
+Todd Quoridor is my 2024-2025 Flex Friday project at Baxter Academy.
+Every Friday, I spent the majority of the day working on this project, and presented it to the school after it's completion at the end of the year.
+
+## Project Description
+Quoridor is a turn based strategy board game played between two players.
+The goal of the game is to move your pawn to the other side of the board before the opponent moves their pawn to yours.
+My program is a MiniMax function with a customizable depth up to 5.
+My program uses a Dijkstra Algorithm as it's evaluation function
+My program uses Alpha-Beta pruning to reduce search times
+My program has a winrate of 19-2 win/loss against humans
+
+Here is the link to the github repo, which includes the assets used in the tutorial section of the game: https://github.com/Penguinsssssss/ToddQuoridor

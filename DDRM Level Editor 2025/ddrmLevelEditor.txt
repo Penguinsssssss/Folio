@@ -1,0 +1,12 @@
+# DDRM Level Editor
+
+## Programming Studio
+Programming studio is a class at Baxter where I went on a semester long self guided project of my own choice.
+
+## Project Description
+DoDoReMi is a team based rhythm game released by Jackbox Games as part of Jackbox Party Pack 10
+The game has many different pre-made levels stored in the game as plaintext
+I reverse engeneered the way levels are stored, and made a python program to allow the user to create their own
+The program takes a song and BPM as input, and outputs your notes as a .json file, able to be placed directly into the game
+
+Here is the link to the github repo, which includes my journal: https://github.com/Penguinsssssss/DDRM-Level-Editor-v0.3
